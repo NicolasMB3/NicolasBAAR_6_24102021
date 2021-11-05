@@ -9,13 +9,12 @@ const multer = require('../middleware/multer-config');
 router.get('/', auth, ctrlSauce.displayAllSauce);
 // Créer un nouveau élèment
 router.post('/', auth, multer, ctrlSauce.createSauce);
-// Définis le status d'un like 1 = like 0 = neutre -1 = dislike
-router.post('/:id/like', auth, ctrlSauce.updateLikeSauce);
-// Récuérer un élèment
+// // Définis le status d'un like 1 = like 0 = neutre -1 = dislike
+// router.post('/:id/like', auth, ctrlSauce.updateLikeSauce);
+// Récupérer un élèment
 router.get('/:id', auth, ctrlSauce.displaySauce);
 // Modifier un élèment sur la base de données
 router.put('/:id', auth, multer, ctrlSauce.modifySauce);
-// :id => route dynamique
 // Supprimer un élèment sur la base de données
 router.delete('/:id', auth, ctrlSauce.deleteSauce);
 

@@ -6,9 +6,7 @@ const fs = require('fs');
 // Créer un élèment
 exports.createSauce = (req, res, next) => {
    // Obtenir un objet utilisable
-   const sauceObject = JSON.parse(req.body.Sauce);
-   // Supprimer l'id que retourne le front
-   delete sauceObject._id;
+   const sauceObject = JSON.parse(req.body.sauce);
    // Création d'une nouvelle instance
    const sauceNew = new Sauce({
       // Syntaxe de décomposition : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Spread_syntax
@@ -18,7 +16,11 @@ exports.createSauce = (req, res, next) => {
       // req.protocal = récupérer le protocal de notre lien : http ou https
       // req.get('host') = permet de récupérer l'URL de notre lien : localhost
       // req.file.filename = permet de récupérer le nom du fichier
-      imageUrl: `${req.protocol}://${req.get('host')}/images/${req.file.filename}`
+      imageUrl: `${req.protocol}://${req.get('host')}/images/${req.file.filename}`,
+      likes: 0,
+      dislikes: 0,
+      userLiked: 0,
+      userDisliked: 0,
    });
    // Méthode save permet d'enregistrer sauceNew dans la base de données
    sauceNew.save()
@@ -37,7 +39,7 @@ exports.modifySauce = (req, res, next) => {
       const filename = sauceModify.imageUrl.split('/images/')[1];
       if (req.file) {
          const sauceObject = {
-            ...JSON.parse(req.body.Sauce),
+            ...JSON.parse(req.body.sauce),
             imageUrl: `${req.protocol}://${req.get('host')}/images/${req.file.filename}`
          }
          fs.unlink(`images/${filename}`, () => {
@@ -55,14 +57,6 @@ exports.modifySauce = (req, res, next) => {
       }
    })
    .catch(error => res.status(500).json({ error }))
-};
-
-// Modifie la valeur d'un like
-exports.updateLikeSauce = (req, res, next) => {
-   Sauce.findOne({ _id: req.params.id })
-   .then(sauce => {
-      
-   })
 };
 
 // Supprimer un élèment

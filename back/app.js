@@ -27,7 +27,7 @@ app.use(express.json());
 
 // Autorisation à l'api d'utiliser de façon static le dossier images
 app.use('/images', express.static(path.join(__dirname, 'images')));
-app.use('/api/stuff', stuffRoutes);
+app.use('/api/sauces', stuffRoutes);
 app.use('/api/auth', userRoutes);
 
 // Permet d'utiliser express sur les autres fichiers node
