@@ -57,6 +57,14 @@ exports.modifySauce = (req, res, next) => {
    .catch(error => res.status(500).json({ error }))
 };
 
+// Modifie la valeur d'un like
+exports.updateLikeSauce = (req, res, next) => {
+   Sauce.findOne({ _id: req.params.id })
+   .then(sauce => {
+      
+   })
+};
+
 // Supprimer un élèment
 exports.deleteSauce = (req, res, next) => {
    Sauce.findOne({ _id: req.params.id })
