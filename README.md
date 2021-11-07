@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 
-  <h1 align="center">🌶️ Piiquante</h1>
+  <h2 align="center">🌶️ Piiquante</h2>
 
   <p align="center">
     Projet pour OpenClassrooms
