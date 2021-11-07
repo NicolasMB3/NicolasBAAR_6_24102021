@@ -3,7 +3,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
@@ -86,7 +85,5 @@ Lien du projet : [https://github.com/NicolasMB3/NicolasBAAR_5_24092021](https://
 [stars-url]: https://github.com/NicolasMB3/NicolasBAAR_5_24092021/stargazers
 [issues-shield]: https://img.shields.io/github/issues/NicolasMB3/NicolasBAAR_5_24092021.svg?style=for-the-badge
 [issues-url]: https://github.com/NicolasMB3/NicolasBAAR_5_24092021/issues
-[license-shield]: https://img.shields.io/github/license/NicolasMB3/NicolasBAAR_5_24092021.svg?style=for-the-badge
-[license-url]: https://github.com/NicolasMB3/NicolasBAAR_5_24092021/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nicolasbaar02/
