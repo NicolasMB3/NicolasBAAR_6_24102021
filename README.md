@@ -13,7 +13,7 @@
   <p align="center">
     Projet pour OpenClassrooms
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Mon site web »</strong></a>
+    <a href="https://nicolasbaar.fr/"><strong>Mon site web »</strong></a>
     <br />
     <br />
     <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Un bug 🐜</a>
