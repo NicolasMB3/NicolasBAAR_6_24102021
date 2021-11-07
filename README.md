@@ -3,20 +3,19 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
   <p align="center">
-    <a href="https://nicolasmb3.github.io/NicolasBAAR_5_24092021/">
+    <a href="https://nicolasmb3.github.io/NicolasBAAR_6_24102021/">
       <img src="logo-github.png" alt="Logo">
     </a>
 
-    <p align="center">
+    <p>
       Par Nicolas BAAR
       <br />
-      <a href="https://nicolasmb3.github.io/NicolasBAAR_5_24092021/">Accéder à la démo</a>
+      <a href="https://nicolasmb3.github.io/NicolasBAAR_6_24102021/">Accéder à la démo</a>
       ·
-      <a href="https://github.com/NicolasMB3/NicolasBAAR_5_24092021/issues">Une option à ajouter ?</a>
+      <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Une option à ajouter ?</a>
     </p>
   </p>
 </div>
@@ -73,17 +72,15 @@ Une fois le serveur back-end et front-end allumé, une page devrait s'ouvrir aut
 
 Nicolas BAAR - [@MeesN](https://nicolasbaar.fr/) - nicolasbaar@icloud.com
 
-Lien du projet : [https://github.com/NicolasMB3/NicolasBAAR_5_24092021](https://github.com/NicolasMB3/NicolasBAAR_6_24102021)
+Lien du projet : [https://github.com/NicolasMB3/NicolasBAAR_6_24102021](https://github.com/NicolasMB3/NicolasBAAR_6_24102021)
 
 <p align="right">(<a href="#top">Revenir en haut de la page</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/NicolasMB3/NicolasBAAR_5_24092021.svg?style=for-the-badge
-[contributors-url]: https://github.com/NicolasMB3/NicolasBAAR_5_24092021/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NicolasMB3/NicolasBAAR_5_24092021.svg?style=for-the-badge
-[forks-url]: https://github.com/NicolasMB3/NicolasBAAR_5_24092021/network/members
-[stars-shield]: https://img.shields.io/github/stars/NicolasMB3/NicolasBAAR_5_24092021.svg?style=for-the-badge
-[stars-url]: https://github.com/NicolasMB3/NicolasBAAR_5_24092021/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NicolasMB3/NicolasBAAR_5_24092021.svg?style=for-the-badge
-[issues-url]: https://github.com/NicolasMB3/NicolasBAAR_5_24092021/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/nicolasbaar02/
+[contributors-shield]: https://img.shields.io/github/contributors/NicolasMB3/NicolasBAAR_6_24102021.svg?style=flat-square
+[contributors-url]: https://github.com/NicolasMB3/NicolasBAAR_6_24102021/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NicolasMB3/NicolasBAAR_6_24102021.svg?style=flat-square
+[forks-url]: https://github.com/NicolasMB3/NicolasBAAR_6_24102021/pulse
+[stars-shield]: https://img.shields.io/github/stars/NicolasMB3/NicolasBAAR_6_24102021.svg?style=flat-square
+[stars-url]: https://github.com/NicolasMB3/NicolasBAAR_6_24102021/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NicolasMB3/NicolasBAAR_6_24102021.svg?style=flat-square
+[issues-url]: https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues
