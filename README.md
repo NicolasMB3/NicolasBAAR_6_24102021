@@ -2,20 +2,23 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<div id="top"></div>
-<br />
-  <p align="center">
-    <a href="https://nicolasmb3.github.io/NicolasBAAR_6_24102021/">
-      <img src="logo-github.png" alt="Logo">
-    </a>
 
-    <p>
-      Par Nicolas BAAR
-      <br />
-      <a href="https://nicolasmb3.github.io/NicolasBAAR_6_24102021/">Accéder à la démo</a>
-      ·
-      <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Une option à ajouter ?</a>
-    </p>
+<div id="top"></div>
+
+<br />
+<div align="center">
+
+  <h3 align="center">Piiquante</h3>
+
+  <p align="center">
+    Projet pour OpenClassrooms
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Un bug ?</a>
+    ·
+    <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Une option à ajouter</a>
   </p>
 </div>
 
@@ -28,7 +31,7 @@ Contenance du site :
 * Utilisation de Javascript et Node.js,
 * Création d'articles, suppression et modification.
 
-### Développer avec :
+## Développer avec :
 
 Liste de tous les languages utilisés pour la création du site :
 
@@ -75,11 +78,11 @@ Lien du projet : [https://github.com/NicolasMB3/NicolasBAAR_6_24102021](https://
 
 <p align="right">(<a href="#top">Revenir en haut de la page</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/NicolasMB3/NicolasBAAR_6_24102021.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/NicolasMB3/NicolasBAAR_6_24102021.svg?style=for-the-badge
 [contributors-url]: https://github.com/NicolasMB3/NicolasBAAR_6_24102021/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NicolasMB3/NicolasBAAR_6_24102021.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/NicolasMB3/NicolasBAAR_6_24102021.svg?style=for-the-badge
 [forks-url]: https://github.com/NicolasMB3/NicolasBAAR_6_24102021/pulse
-[stars-shield]: https://img.shields.io/github/stars/NicolasMB3/NicolasBAAR_6_24102021.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/NicolasMB3/NicolasBAAR_6_24102021.svg?style=for-the-badge
 [stars-url]: https://github.com/NicolasMB3/NicolasBAAR_6_24102021/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NicolasMB3/NicolasBAAR_6_24102021.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/NicolasMB3/NicolasBAAR_6_24102021.svg?style=for-the-badge
 [issues-url]: https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues
