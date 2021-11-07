@@ -5,7 +5,6 @@
 
 <div id="top"></div>
 
-<br />
 <div align="center">
 
   ### 🌶️ Piiquante
@@ -68,7 +67,7 @@ Un fois Node.js installer correctement (dans le dossier front, mais aussi dans l
    ```sh
    ng serve
    ```
-Une fois le serveur back-end et front-end allumé, une page devrait s'ouvrir automatiquement sur votre navigateur préféré
+Une fois le serveur back-end et front-end allumés, une page devrait s'ouvrir automatiquement sur votre navigateur préféré 🎉
 
 ## Contacts
 
