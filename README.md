@@ -8,17 +8,17 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Piiquante</h3>
+  <h1 align="center">🌶️ Piiquante</h1>
 
   <p align="center">
     Projet pour OpenClassrooms
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Mon site web »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Un bug ?</a>
+    <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Un bug 🐜</a>
     ·
-    <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Une option à ajouter</a>
+    <a href="https://github.com/NicolasMB3/NicolasBAAR_6_24102021/issues">Une option à ajouter 🗂️</a>
   </p>
 </div>
 
