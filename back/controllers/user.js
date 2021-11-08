@@ -44,7 +44,7 @@ exports.login = (req, res, next) => {
                   token: jwt.sign(
                      // permet d'encoder l'userid
                      { userId: user._id },
-                     'RANDOM_TOKEN_SECRET',
+                     'PXNrFFk0HMwvbQWjmTDAWq0YtZRwvzDv5xGW11CY40WUxZIrTYvNTnej8RcsVo3y4NdRd0dguP7B9OpxbjSNHDjzROqe6cThSESgDFakTgU5PaCzuQyg9RHsXYQUNc4BVipaGh6tiEZhao4cjEZgBvhMra79MXkGWxP2quSW8GcVi8UY4a7pZoEiklb6qzUucvcoEb6qb1qfZzuRVxdwuzbbZfDyUBdzIqXQy0CAdAyog4v1f7yzQaV3q4QmyaYyjHI4m5flkgC3t8jtACTNMaNnOV6VxTHwI06f6bwPX6wE66qiklb6Vi8UY4a7WUxZIrTYvNWUxZIrTYvNpZoEikOboG8H',
                      { expiresIn: '24h'}
                   )
                });
