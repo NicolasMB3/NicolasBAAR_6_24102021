@@ -65,7 +65,7 @@ Un fois Node.js installer correctement (dans le dossier front, mais aussi dans l
    ```
 2. Lancer le serveur front-end
    ```sh
-   ng serve
+   npm start
    ```
 Une fois le serveur back-end et front-end allumés, une page devrait s'ouvrir automatiquement sur votre navigateur préféré 🎉
 
