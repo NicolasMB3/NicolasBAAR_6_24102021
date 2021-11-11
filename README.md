@@ -32,7 +32,7 @@ Contenance du site :
 
 ## Développer avec :
 
-Liste de tous les languages utilisés pour la création du site :
+Liste de tous les langues utilisées pour la création du site :
 
 * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
@@ -57,7 +57,7 @@ Dans une console Node.js (ou directement avec la console de Visual Studio Code)
 
 ### Installation
 
-Un fois Node.js installer correctement (dans le dossier front, mais aussi dans le dossier back). Vous aurez besoin de lancer les serveurs grâce aux commandes suivantes :
+Une fois Node.js installé correctement (dans le dossier front, mais aussi dans le dossier back). Vous aurez besoin de lancer les serveurs grâce aux commandes suivantes :
 
 1. Lancer le serveur back-end
    ```sh
