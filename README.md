@@ -30,9 +30,9 @@ Contenance du site :
 * Utilisation de Javascript et Node.js,
 * Création d'articles, suppression et modification.
 
-## Développer avec :
+## Développé avec :
 
-Liste de tous les langues utilisées pour la création du site :
+Liste de tous les langages utilisés pour la création du site :
 
 * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
